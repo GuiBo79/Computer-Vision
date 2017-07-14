@@ -1,2 +1,2 @@
-# Computer-Vision---Matlab
-Function to find templates in images using X correlation.
+# Computer-Vision
+Computer Vision routines in Python and MatLab
